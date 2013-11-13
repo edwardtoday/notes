@@ -1,2 +1,9 @@
+---
+layout: page
+title: '6 Days Left Here'
+comments: true
+categories: coursera
+---
+
 # Notes on *Image and video processing: From Mars to Hollywood with a stop at the hospital*
 
